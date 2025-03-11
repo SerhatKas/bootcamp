@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Profil Başlık -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=Merhaba+👋;Ben+Ahmet+Kaya;Full+Stack+Developer" alt="Başlık Animasyonu" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=Merhaba+👋;Ben+Serhat+Kas;Full+Stack+Developer" alt="Başlık Animasyonu" />
 
 <!-- Sosyal Medya -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmetkaya)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahmetkaya)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ahmetkaya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SerhatKas)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SerhatKas)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@SerhatKas)
 
 <!-- Teknoloji Badge'leri -->
 ### 🛠️ **Teknolojiler**
@@ -17,13 +17,13 @@
 
 <!-- GitHub İstatistikleri -->
 ### 📊 **GitHub Aktivitem**
-![](https://github-readme-stats.vercel.app/api?username=ahmetkaya&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmetkaya&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=SerhatKas&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SerhatKas&theme=radical)
 
 <!-- Popüler Repolar -->
 ### 🚀 **Popüler Projelerim**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmetkaya&repo=e-ticaret-sistemi&theme=dark)](https://github.com/ahmetkaya/e-ticaret-sistemi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmetkaya&repo=blog-sitesi&theme=dark)](https://github.com/ahmetkaya/blog-sitesi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SerhatKas&repo=e-ticaret-sistemi&theme=dark)](https://github.com/SerhatKas/e-ticaret-sistemi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SerhatKas&repo=blog-sitesi&theme=dark)](https://github.com/SerhatKas/blog-sitesi)
 
 <!-- Özel Bölümler (GIF veya SVG) -->
 ### 🎨 **Hobilerim**
